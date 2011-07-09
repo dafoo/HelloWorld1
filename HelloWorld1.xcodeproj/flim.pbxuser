@@ -1,0 +1,83 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* HelloWorld1AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1092}}";
+			sepNavSelRange = "{323, 0}";
+			sepNavVisRange = "{243, 805}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* HelloWorld1 */ = {
+		activeExec = 0;
+		executables = (
+			4204185213C8638B00A54D00 /* HelloWorld1 */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 4204185213C8638B00A54D00 /* HelloWorld1 */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* HelloWorld1 */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* HelloWorld1 */,
+		);
+		codeSenseManager = 4204185D13C863AD00A54D00 /* Code sense */;
+		executables = (
+			4204185213C8638B00A54D00 /* HelloWorld1 */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 331899787;
+			PBXWorkspaceStateSaveDate = 331899787;
+		};
+		sourceControlManager = 4204185C13C863AD00A54D00 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 245}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 356}";
+		};
+	};
+	4204185213C8638B00A54D00 /* HelloWorld1 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = HelloWorld1;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	4204185C13C863AD00A54D00 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	4204185D13C863AD00A54D00 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

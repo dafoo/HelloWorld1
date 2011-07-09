@@ -1,0 +1,239 @@
+THelloWorld1
+v7
+r0
+t331901413.227755
+cCheck dependencies
+cProcessInfoPlistFile /Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator/HelloWorld1.app/Info.plist HelloWorld1-Info.plist
+cCompileXIB /Users/flim/Documents/HelloWorld1/MainWindow.xib
+cProcessPCH /var/folders/3w/3wnPcbvVFl8sTibFUuFPP++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld1_Prefix-bjnjhzhwbtxxgdfnparkqwclzmun/HelloWorld1_Prefix.pch.gch HelloWorld1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/Objects-normal/i386/main.o /Users/flim/Documents/HelloWorld1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/Objects-normal/i386/HelloWorld1AppDelegate.o /Users/flim/Documents/HelloWorld1/Classes/HelloWorld1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/Objects-normal/i386/HelloWorld1ViewController.o /Users/flim/Documents/HelloWorld1/Classes/HelloWorld1ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator/HelloWorld1.app/HelloWorld1 normal i386
+cGenerateDSYMFile /Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator/HelloWorld1.app.dSYM /Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator/HelloWorld1.app/HelloWorld1
+cTouch /Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator/HelloWorld1.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C64694D0000000000000132
+t1281648973
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/flim/Documents/HelloWorld1/Classes/HelloWorld1AppDelegate.h
+c000000004E1831B500000000000001E2
+t1310208437
+s482
+i<UIKit/UIKit.h>
+
+N/Users/flim/Documents/HelloWorld1/Classes/HelloWorld1AppDelegate.m
+c000000004E1832350000000000000AE2
+t1310208565
+s2786
+i"HelloWorld1AppDelegate.h"
+i"HelloWorld1ViewController.h"
+
+N/Users/flim/Documents/HelloWorld1/Classes/HelloWorld1ViewController.h
+c000000004E182D7100000000000000F1
+t1310207345
+s241
+i<UIKit/UIKit.h>
+
+N/Users/flim/Documents/HelloWorld1/Classes/HelloWorld1ViewController.m
+c000000004E18325E0000000000000822
+t1310208606
+s2082
+i"HelloWorld1ViewController.h"
+
+N/Users/flim/Documents/HelloWorld1/HelloWorld1_Prefix.pch
+c000000004E182C0A00000000000000BF
+t1310206986
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/flim/Documents/HelloWorld1/MainWindow.xib
+c000000004E182C0A000000000000211C
+t1310206986
+s8476
+
+N/Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator/HelloWorld1.app
+t1310208613
+s204
+
+N/Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator/HelloWorld1.app.dSYM
+t1310208613
+s102
+
+N/Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator/HelloWorld1.app/HelloWorld1
+t1310208613
+s17892
+
+N/Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator/HelloWorld1.app/Info.plist
+t1310208606
+s607
+
+N/Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator/HelloWorld1.app/MainWindow.nib
+t1310208608
+s988
+
+N/Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator/HelloWorld1.app/PkgInfo
+t1310208606
+s8
+
+N/Users/flim/Documents/HelloWorld1/build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/Objects-normal/i386/HelloWorld1.LinkFileList
+c000000004E18325E000000000000019E
+t1310208606
+s414
+
+N/Users/flim/Documents/HelloWorld1/build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/Objects-normal/i386/HelloWorld1AppDelegate.o
+t1310208612
+s48692
+
+N/Users/flim/Documents/HelloWorld1/build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/Objects-normal/i386/HelloWorld1ViewController.o
+t1310208612
+s37596
+
+N/Users/flim/Documents/HelloWorld1/build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/Objects-normal/i386/main.o
+t1310208611
+s6292
+
+N/Users/flim/Documents/HelloWorld1/main.m
+c000000004E182C0A0000000000000164
+t1310206986
+s356
+i<UIKit/UIKit.h>
+
+N/var/folders/3w/3wnPcbvVFl8sTibFUuFPP++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld1_Prefix-bjnjhzhwbtxxgdfnparkqwclzmun/HelloWorld1_Prefix.pch.gch
+t1310208611
+s10212912
+
+NHelloWorld1-Info.plist
+c000000004E182C0A000000000000038D
+t1310206986
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies331901406#331901406#0(0"0(0#1#0"4231192#0"0#
+
+CCompileC build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/Objects-normal/i386/HelloWorld1AppDelegate.o /Users/flim/Documents/HelloWorld1/Classes/HelloWorld1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331901411.923132
+e331901412.214578
+r1
+xCompileC
+xbuild/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/Objects-normal/i386/HelloWorld1AppDelegate.o
+x/Users/flim/Documents/HelloWorld1/Classes/HelloWorld1AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/flim/Documents/HelloWorld1/Classes/HelloWorld1AppDelegate.m331901411#331901412#0(0"0(0#0#66"/Users/flim/Documents/HelloWorld1/Classes/HelloWorld1AppDelegate.m2575020064#1970"    cd /Users/flim/Documents/HelloWorld1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/flim/Documents/HelloWorld1/build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/HelloWorld1-generated-files.hmap -I/Users/flim/Documents/HelloWorld1/build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/HelloWorld1-own-target-headers.hmap -I/Users/flim/Documents/HelloWorld1/build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/HelloWorld1-all-target-headers.hmap -iquote /Users/flim/Documents/HelloWorld1/build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/HelloWorld1-project-headers.hmap -F/Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator -I/Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator/include -I/Users/flim/Documents/HelloWorld1/build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/DerivedSources/i386 -I/Users/flim/Documents/HelloWorld1/build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/DerivedSources -include /var/folders/3w/3wnPcbvVFl8sTibFUuFPP++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld1_Prefix-bjnjhzhwbtxxgdfnparkqwclzmun/HelloWorld1_Prefix.pch -c /Users/flim/Documents/HelloWorld1/Classes/HelloWorld1AppDelegate.m -o /Users/flim/Documents/HelloWorld1/build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/Objects-normal/i386/HelloWorld1AppDelegate.o0#
+
+CCompileC build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/Objects-normal/i386/HelloWorld1ViewController.o /Users/flim/Documents/HelloWorld1/Classes/HelloWorld1ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331901412.215305
+e331901412.472834
+r1
+xCompileC
+xbuild/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/Objects-normal/i386/HelloWorld1ViewController.o
+x/Users/flim/Documents/HelloWorld1/Classes/HelloWorld1ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/flim/Documents/HelloWorld1/Classes/HelloWorld1ViewController.m331901412#331901412#0(0"0(0#0#69"/Users/flim/Documents/HelloWorld1/Classes/HelloWorld1ViewController.m2575020064#1976"    cd /Users/flim/Documents/HelloWorld1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/flim/Documents/HelloWorld1/build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/HelloWorld1-generated-files.hmap -I/Users/flim/Documents/HelloWorld1/build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/HelloWorld1-own-target-headers.hmap -I/Users/flim/Documents/HelloWorld1/build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/HelloWorld1-all-target-headers.hmap -iquote /Users/flim/Documents/HelloWorld1/build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/HelloWorld1-project-headers.hmap -F/Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator -I/Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator/include -I/Users/flim/Documents/HelloWorld1/build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/DerivedSources/i386 -I/Users/flim/Documents/HelloWorld1/build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/DerivedSources -include /var/folders/3w/3wnPcbvVFl8sTibFUuFPP++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld1_Prefix-bjnjhzhwbtxxgdfnparkqwclzmun/HelloWorld1_Prefix.pch -c /Users/flim/Documents/HelloWorld1/Classes/HelloWorld1ViewController.m -o /Users/flim/Documents/HelloWorld1/build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/Objects-normal/i386/HelloWorld1ViewController.o0#
+
+CCompileC build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/Objects-normal/i386/main.o /Users/flim/Documents/HelloWorld1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331901411.698183
+e331901411.922658
+r1
+xCompileC
+xbuild/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/Objects-normal/i386/main.o
+x/Users/flim/Documents/HelloWorld1/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/flim/Documents/HelloWorld1/main.m331901411#331901411#0(0"0(0#0#40"/Users/flim/Documents/HelloWorld1/main.m2575020064#1926"    cd /Users/flim/Documents/HelloWorld1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/flim/Documents/HelloWorld1/build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/HelloWorld1-generated-files.hmap -I/Users/flim/Documents/HelloWorld1/build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/HelloWorld1-own-target-headers.hmap -I/Users/flim/Documents/HelloWorld1/build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/HelloWorld1-all-target-headers.hmap -iquote /Users/flim/Documents/HelloWorld1/build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/HelloWorld1-project-headers.hmap -F/Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator -I/Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator/include -I/Users/flim/Documents/HelloWorld1/build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/DerivedSources/i386 -I/Users/flim/Documents/HelloWorld1/build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/DerivedSources -include /var/folders/3w/3wnPcbvVFl8sTibFUuFPP++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld1_Prefix-bjnjhzhwbtxxgdfnparkqwclzmun/HelloWorld1_Prefix.pch -c /Users/flim/Documents/HelloWorld1/main.m -o /Users/flim/Documents/HelloWorld1/build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/flim/Documents/HelloWorld1/MainWindow.xib
+s331901406.578535
+e331901408.747218
+r1
+xCompileXIB
+x/Users/flim/Documents/HelloWorld1/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib331901406#331901408#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#48"/Users/flim/Documents/HelloWorld1/MainWindow.xib4231192#559"    cd /Users/flim/Documents/HelloWorld1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator/HelloWorld1.app/MainWindow.nib /Users/flim/Documents/HelloWorld1/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator/HelloWorld1.app.dSYM /Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator/HelloWorld1.app/HelloWorld1
+s331901413.064631
+e331901413.175840
+r1
+xGenerateDSYMFile
+x/Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator/HelloWorld1.app.dSYM
+x/Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator/HelloWorld1.app/HelloWorld1
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/HelloWorld1.app.dSYM build/Debug-iphonesimulator/HelloWorld1.app/HelloWorld1331901413#331901413#0(0"0(0#0#89"/Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator/HelloWorld1.app/HelloWorld12575020064#380"    cd /Users/flim/Documents/HelloWorld1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator/HelloWorld1.app/HelloWorld1 -o /Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator/HelloWorld1.app.dSYM0#
+
+CLd /Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator/HelloWorld1.app/HelloWorld1 normal i386
+s331901412.473311
+e331901413.064090
+r1
+xLd
+x/Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator/HelloWorld1.app/HelloWorld1
+xnormal
+xi386
+lSLF07#2@94"Link /Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator/HelloWorld1.app/HelloWorld1331901412#331901413#0(0"0(0#0#0"2575020064#895"    cd /Users/flim/Documents/HelloWorld1    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator -F/Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator -filelist /Users/flim/Documents/HelloWorld1/build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/Objects-normal/i386/HelloWorld1.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator/HelloWorld1.app/HelloWorld10#
+
+CProcessInfoPlistFile /Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator/HelloWorld1.app/Info.plist HelloWorld1-Info.plist
+s331901406.460755
+e331901406.578014
+r1
+xProcessInfoPlistFile
+x/Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator/HelloWorld1.app/Info.plist
+xHelloWorld1-Info.plist
+lSLF07#2@30"Process HelloWorld1-Info.plist331901406#331901406#0(0"0(0#0#56"/Users/flim/Documents/HelloWorld1/HelloWorld1-Info.plist4231192#476"    cd /Users/flim/Documents/HelloWorld1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility HelloWorld1-Info.plist -genpkginfo /Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator/HelloWorld1.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator/HelloWorld1.app/Info.plist0#
+
+CProcessPCH /var/folders/3w/3wnPcbvVFl8sTibFUuFPP++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld1_Prefix-bjnjhzhwbtxxgdfnparkqwclzmun/HelloWorld1_Prefix.pch.gch HelloWorld1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s331901408.748128
+e331901411.697442
+r1
+xProcessPCH
+x/var/folders/3w/3wnPcbvVFl8sTibFUuFPP++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld1_Prefix-bjnjhzhwbtxxgdfnparkqwclzmun/HelloWorld1_Prefix.pch.gch
+xHelloWorld1_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile HelloWorld1_Prefix.pch331901408#331901411#0(0"0(0#0#56"/Users/flim/Documents/HelloWorld1/HelloWorld1_Prefix.pch4231192#1819"    cd /Users/flim/Documents/HelloWorld1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/flim/Documents/HelloWorld1/build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/HelloWorld1-generated-files.hmap -I/Users/flim/Documents/HelloWorld1/build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/HelloWorld1-own-target-headers.hmap -I/Users/flim/Documents/HelloWorld1/build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/HelloWorld1-all-target-headers.hmap -iquote /Users/flim/Documents/HelloWorld1/build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/HelloWorld1-project-headers.hmap -F/Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator -I/Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator/include -I/Users/flim/Documents/HelloWorld1/build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/DerivedSources/i386 -I/Users/flim/Documents/HelloWorld1/build/HelloWorld1.build/Debug-iphonesimulator/HelloWorld1.build/DerivedSources -c /Users/flim/Documents/HelloWorld1/HelloWorld1_Prefix.pch -o /var/folders/3w/3wnPcbvVFl8sTibFUuFPP++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld1_Prefix-bjnjhzhwbtxxgdfnparkqwclzmun/HelloWorld1_Prefix.pch.gch0#
+
+CTouch /Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator/HelloWorld1.app
+s331901413.176254
+e331901413.227370
+r1
+xTouch
+x/Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator/HelloWorld1.app
+lSLF07#2@83"Touch /Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator/HelloWorld1.app331901413#331901413#0(0"0(0#0#0"2575020064#272"    cd /Users/flim/Documents/HelloWorld1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/flim/Documents/HelloWorld1/build/Debug-iphonesimulator/HelloWorld1.app0#
+
